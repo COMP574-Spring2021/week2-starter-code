@@ -1,1 +1,1 @@
-# week1-starter-code
+# week2-starter-code
